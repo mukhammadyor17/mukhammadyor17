@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on Vue and Angular projects.
 - 📫 How to reach me 
    - Telegram - @Mukhammadyor17
-   - Linkedin - https://www.linkedin.com/in/mukhammadyorkhon-turskhanov-6a3633233/
+   - Linkedin - www.linkedin.com/in/mukhammadyor-turskhanov
  
 
 ### 📊 GitHub Stats:
